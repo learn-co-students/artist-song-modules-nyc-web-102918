@@ -6,7 +6,7 @@
 2. Use modules to refactor away repetitious code.
 
 ## Overview
-
+v
 In this lab, we have an `Artist` class and a `Song` class. `Artist`s have many
 songs and an individual instance of the `Song` class belongs to an artist.
 `Artist`s and `Song`s also have some familiar class methods that keep track of
